@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://goroshillc.com/assets/images/logo.png" alt="GOROSHI" width="80" />
-
 # GOROSHI HQ
 
 **Operations Technology & AI Infrastructure**
